@@ -5,7 +5,6 @@ import {faBars, faCartShopping,
         faMagnifyingGlass, faAngleDown, faArrowLeft, faArrowRight,
         faPlus, faMinus, faTrashCan  
          } from "@fortawesome/free-solid-svg-icons";
-import './index.css';
 import App from './App.jsx';
 
 library.add(faBars, faMagnifyingGlass, faAngleDown, 
